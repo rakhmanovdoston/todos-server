@@ -1,10 +1,26 @@
 { 
-    "todos" : [
+    "today" : [
 
         { "id": 1, "title": "Buy groceries", "checked": false },
         { "id": 2, "title": "Walk the dog", "checked": false },
         { "id": 3, "title": "Finish homework", "checked": false },
         { "id": 4, "title": "Clean the kitchen", "checked": false },
         { "id": 5, "title": "Read a book", "checked": false }
+    ],
+        "tomorrow" : [
+
+        { "id": 1, "title": "Read a New Manga Volume", "checked": false },
+        { "id": 2, "title": "Organize Your Manga Collection", "checked": false },
+        { "id": 3, "title": "Write a Manga Review", "checked": false },
+        { "id": 4, "title": "Create Fan Art or Fan Fiction", "checked": false },
+        { "id": 5, "title": "Join a Manga Discussion Group", "checked": false }
+    ],
+        "thisWeek" : [
+
+        { "id": 1, "title": "Work on frontend design", "checked": false },
+        { "id": 2, "title": "Pick up laundry", "checked": false },
+        { "id": 3, "title": "Review project plan", "checked": false },
+        { "id": 4, "title": "Update website content", "checked": false },
+        { "id": 5, "title": "Plan next week", "checked": false }
     ]
 }
